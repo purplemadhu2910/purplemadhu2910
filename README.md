@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purplemadhu2910
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me .. madhu.mandokar29@gmail.coom
 
